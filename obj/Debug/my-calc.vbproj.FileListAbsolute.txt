@@ -1,0 +1,12 @@
+C:\Users\Devy Mutiara\source\repos\my-calc\bin\Debug\my-calc.exe.config
+C:\Users\Devy Mutiara\source\repos\my-calc\bin\Debug\my-calc.exe
+C:\Users\Devy Mutiara\source\repos\my-calc\bin\Debug\my-calc.pdb
+C:\Users\Devy Mutiara\source\repos\my-calc\bin\Debug\my-calc.xml
+C:\Users\Devy Mutiara\source\repos\my-calc\obj\Debug\my-calc.vbproj.AssemblyReference.cache
+C:\Users\Devy Mutiara\source\repos\my-calc\obj\Debug\my_calc.Form1.resources
+C:\Users\Devy Mutiara\source\repos\my-calc\obj\Debug\my_calc.Resources.resources
+C:\Users\Devy Mutiara\source\repos\my-calc\obj\Debug\my-calc.vbproj.GenerateResource.cache
+C:\Users\Devy Mutiara\source\repos\my-calc\obj\Debug\my-calc.vbproj.CoreCompileInputs.cache
+C:\Users\Devy Mutiara\source\repos\my-calc\obj\Debug\my-calc.exe
+C:\Users\Devy Mutiara\source\repos\my-calc\obj\Debug\my-calc.xml
+C:\Users\Devy Mutiara\source\repos\my-calc\obj\Debug\my-calc.pdb
